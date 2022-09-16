@@ -13,6 +13,6 @@
 </ul>
 <br>
 
-![GIf calculator](https://user-images.githubusercontent.com/101435336/184159216-0a130348-77c6-4427-854c-47c311f3f747.gif)
+
 
 <h2><em>Como usar📕</em> </h2>
