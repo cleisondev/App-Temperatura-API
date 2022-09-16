@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+body{
+    margin: 5px;
+}
+
+main{
+    width: 400px;
+    display: block;
+    margin: auto;
+    align-items: center;;
+    background-color: #87a7b5;
+    border-radius: 5px;
+    font-family: 'Quicksand', sans-serif;
+}
+  
+#banner {
+    color: #ffffff;
+    font-weight: lighter;
+}
+
+.cityInput{
+    padding: 20px;
+    
+}
+
+#inputT{
+    width: 100%;
+    height: 35px;
+    outline: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.btnCity{
+   margin-bottom: 20px;
+   background-color: #ffff;
+   border: none;
+   border-radius: 5px;
+   color: rgb(69, 125, 129);
+   padding: 5px;
+   outline: none;
+}
+
+.weatherHeader{
+    background-color: rgb(223, 217, 217);
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.temperature{
+    margin-top: 10px;
+    list-style: none;
+}
+
+ ul li{
+    list-style: none;
+}
+
+.btnCity:hover{
+    background-color: #6f95a5;
+    color: white;
+}
