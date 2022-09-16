@@ -13,6 +13,7 @@
 </ul>
 <br>
 
+https://user-images.githubusercontent.com/101435336/190534247-c0fab013-6230-4241-b34c-fd0dfdaf6900.gif
 
 
 <h2><em>Como usar📕</em> </h2>
