@@ -13,7 +13,10 @@
 </ul>
 <br>
 
-https://user-images.githubusercontent.com/101435336/190534247-c0fab013-6230-4241-b34c-fd0dfdaf6900.gif
+![bandicam 2022-09-15 21-48-23-831](https://user-images.githubusercontent.com/101435336/190534372-3a26735b-59b2-4fd3-9771-802ed9969948.gif)
 
 
 <h2><em>Como usar📕</em> </h2>
+
+<p> O app em si é totalmente intuitivo, havendo um campo pra pesquisa da cidade ou país de escolha sua, ele te retorna as informações de:
+Temperatura, condição do tempo, máximas e mínimas.
